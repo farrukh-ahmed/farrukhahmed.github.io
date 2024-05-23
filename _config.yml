@@ -12,8 +12,8 @@ title                    : "Farrukh's Homepage"
 title_separator          : "-"
 name                     : &name "Farrukh Ahmed"
 description              : &description "A Software Engineer with a knack for AI/ML"
-url                      : hhttps://farrukh-ahmed.github.io/me/ 
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://farrukh-ahmed.github.io
+baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
