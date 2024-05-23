@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of brain vs ai](/images/brain-ai-small.jpg){: .align-right width = "300px"}
+![Illustration of brain vs ai](/images/brain-ai-small.png){: .align-right width = "300px"}
 🎓 Hi there! I am a master's student at [TU Dortmund](https://www.tu-dortmund.de/) pursuing Data Science. Previously, I completed my Bachelor's in Computer Science from [NEDUET](https://www.neduet.edu.pk/).
 
 💻 After completing my undergrad, I worked in the industry as a Software Engineer in Pakistan and UAE. Currently, along with my master's, I am working as a Working Student Cloud Development at [Makonis](https://www.makonis.de/).
