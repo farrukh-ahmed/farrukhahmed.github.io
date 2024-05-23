@@ -12,9 +12,9 @@ title                    : "Farrukh's Homepage"
 title_separator          : "-"
 name                     : &name "Farrukh Ahmed"
 description              : &description "A Software Engineer with a knack for AI/ML"
-url                      : https://farrukh-ahmed.github.io
-baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://farrukh-ahmed.github.io/me
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "farrukh-ahmed/me"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
