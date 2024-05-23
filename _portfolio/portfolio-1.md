@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Styrian Health Data Analysis"
+excerpt: "Analyzing the health data of individuals in Styrian Region"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Analyzing the health data of individuals who attended a conference in the Styrian region and employing machine learning models to determine the factors influencing systolic and diastolic blood pressures, which serve as key indicators of cardiovascular health. The code for this project is [here](https://github.com/farrukh-ahmed/Case-Studies---Project-1). In this project Linear Regression models and Regression trees are fitted on the data. 
+
+Tech Used : Python, pandas, numpy, matplotlib, jupyternotebook
