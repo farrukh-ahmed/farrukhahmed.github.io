@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Hey there, Farrukh here!"
+title: "Hey!👋, I am Farrukh"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+🎓 Hi there! I am a master's student at [TU Dortmund](https://www.tu-dortmund.de/) pursuing Data Science. Previously, I completed my Bachelor's in Computer Science from [NEDUET](https://www.neduet.edu.pk/).
+
+💻 After completing my undergrad, I worked in the industry as a Software Engineer in Pakistan and UAE. Currently, along with my master's, I am working as a Working Student Cloud Development at [Makonis](https://www.makonis.de/).
+
+🔍 My research interests are in Applied Machine Learning and Deep Learning. I have also started to explore GenAI to understand what the hype is about.
+
+📊 Currently, I am working on my Master's Thesis in the area of Generalized Linear Models and Generative Additive Models under the supervision of [Prof. Dr Groll](https://bd.statistik.tu-dortmund.de/professur/arbeitsgruppe/prof-dr-andreas-groll/) and Prof. Dr. Kristen Schorning.
+
 
 A data-driven personal website
 ======
