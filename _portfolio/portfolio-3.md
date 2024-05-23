@@ -1,4 +1,3 @@
-
 ---
 title: "BTA Deep Hole Drilling"
 excerpt: "The purpose of this project is to detect chattering and raise an alarm so that the drilling process is stopped"
