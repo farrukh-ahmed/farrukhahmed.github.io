@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hey!👋 I am Farrukh"
+title: "Hey!👋 I am Farrukh!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Illustration of brain vs ai](https://github.com/farrukh-ahmed/me/blob/master/images/brain-ai-small.png){: .align-right width = "300px"}
+![Illustration of brain vs ai](/me/images/brain-ai-small.png){: .align-right width = "300px"}
 🎓 Hi there! I am a master's student at [TU Dortmund](https://www.tu-dortmund.de/) pursuing Data Science. Previously, I completed my Bachelor's in Computer Science from [NEDUET](https://www.neduet.edu.pk/).
 
 💻 After completing my undergrad, I worked in the industry as a Software Engineer in Pakistan and UAE. Currently, along with my master's, I am working as a Working Student Cloud Development at [Makonis](https://www.makonis.de/).
